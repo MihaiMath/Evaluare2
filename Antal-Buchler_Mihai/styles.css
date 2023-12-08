@@ -1,0 +1,32 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+font-size:140%;
+}
+h2 {
+color: red;
+font-size:100%;
+font-style: italic;
+}
+h3{font-size:100%;
+font-style: oblique;}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+text-align:center;
+ margin-left: auto; 
+  margin-right: auto;
+}
+h4{font-size:120%;
+background-color:darkgreen;}
+h5{background-color:red;
+font-size:120%;}
+p{color: purple;
+font-size:140%;
+font-size:bold;
+}
+img{border-radius: 8px; 
+display: block;
+  margin-left: auto;
+  margin-right: auto;}
